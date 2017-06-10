@@ -1,0 +1,2 @@
+# AmPsyAssoStyle
+APA style
